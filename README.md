@@ -35,4 +35,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </p>
 
+<p>
+   If you made this far, you deserve to know my secret dream: I'd love to win Awwwards "Site of the Day" some day.
+</p>
 
