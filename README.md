@@ -1,11 +1,11 @@
- <code>{ “name” : “Vicente García Ayllón”,
-   “role” : “Front end Dev”,
-   “data” : 
+ <code>{ “name” : “Vicente García Ayllón”,<br>
+   “role” : “Front end Dev”,<br>
+   “data” : <br>
      { 
-      "Linkedin" : "https://www.linkedin.com/in/vicentegarciaayllon/", 
-      "Resume"   : "https://www.vicentegarcya.com/",
-      "Twitter"  : "https://twitter.com/vicengarcyadev"
-     }
+      "Linkedin" : "https://www.linkedin.com/in/vicentegarciaayllon/", <br>
+      "Resume"   : "https://www.vicentegarcya.com/",<br>
+      "Twitter"  : "https://twitter.com/vicengarcyadev"<br>
+     }<br>
  }</code>
 
 
