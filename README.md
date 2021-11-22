@@ -1,4 +1,4 @@
- { “name” : “Vicente García Ayllón”,
+ <code>{ “name” : “Vicente García Ayllón”,
    “role” : “Front end Dev”,
    “data” : 
      { 
@@ -6,7 +6,7 @@
       "Resume"   : "https://www.vicentegarcya.com/",
       "Twitter"  : "https://twitter.com/vicengarcyadev"
      }
- }
+ }</code>
 
 
 Here are some ideas to get you started:
