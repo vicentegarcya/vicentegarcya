@@ -1,4 +1,4 @@
-<h2>Hi there, I'm <a href="https://www.vicentegarcya.com/">Vicente Garcia 👋</a></h2>
+<h2>Hi there, I'm <a href="https://www.vicentegarcya.com/">Vicente Garcia</a>👋</h2>
 
 <p>I'm a junior Front End Developer who loves to make art with his keyboard (yes, websites can be pieces of art). I love chess, reading, watercolors and Pokémon.
    You can find me in a coffee shop or here:
@@ -34,3 +34,5 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </p>
+
+
