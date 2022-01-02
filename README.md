@@ -39,3 +39,4 @@
    If you made this far, you deserve to know my secret dream: I'd love to win Awwwards "Site of the Day" some day.
 </p>
 
+<img src="https://www.codewars.com/users/vicentegarcya/badges/small?theme=light">
