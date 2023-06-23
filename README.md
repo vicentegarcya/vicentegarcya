@@ -1,6 +1,6 @@
 <h2>Hi there, I'm <a href="https://www.vicentegarcya.com/">Vicente Garcia</a>👋</h2>
 
-<p>I'm a junior Front End Developer who loves to make art with his keyboard (yes, websites can be pieces of art). I love chess, reading, watercolors and Pokémon.
+<p>I'm a Web Developer & Designer who loves to make art with his keyboard (yes, websites can be pieces of art). I love chess, reading, watercolors and Pokémon.
    You can find me in a coffee shop or here:
 </p>
    
